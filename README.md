@@ -1,5 +1,7 @@
 # PDF Joiner
 
+![A screenshot of the web application](./assets/appScreenshot.png)
+
 PDF Joiner is a web application that allows users to easily merge multiple PDF files into a single document. With a simple drag-and-drop interface, users can upload PDFs, arrange them as needed, and download a merged PDF without any hassle or signup.
 
 ## Features
